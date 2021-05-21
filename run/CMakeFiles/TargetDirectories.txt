@@ -1,0 +1,5 @@
+/home/andson/Documentos/conexao-e-criacao-banco-de-dados-qt6/run/CMakeFiles/rebuild_cache.dir
+/home/andson/Documentos/conexao-e-criacao-banco-de-dados-qt6/run/CMakeFiles/edit_cache.dir
+/home/andson/Documentos/conexao-e-criacao-banco-de-dados-qt6/run/CMakeFiles/conexao-e-criacao-banco-de-dados-qt6.dir
+/home/andson/Documentos/conexao-e-criacao-banco-de-dados-qt6/run/CMakeFiles/conexao-e-criacao-banco-de-dados-qt6_autogen_timestamp_deps.dir
+/home/andson/Documentos/conexao-e-criacao-banco-de-dados-qt6/run/CMakeFiles/conexao-e-criacao-banco-de-dados-qt6_autogen.dir

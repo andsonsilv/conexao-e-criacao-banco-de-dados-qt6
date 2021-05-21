@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "/home/andson/Documentos/conexao-e-criacao-banco-de-dados-qt6/run/conexao-e-criacao-banco-de-dados-qt6_autogen",
+	"CMAKE_BINARY_DIR" : "/home/andson/Documentos/conexao-e-criacao-banco-de-dados-qt6/run",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/andson/Documentos/conexao-e-criacao-banco-de-dados-qt6/run",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/andson/Documentos/conexao-e-criacao-banco-de-dados-qt6",
+	"CMAKE_SOURCE_DIR" : "/home/andson/Documentos/conexao-e-criacao-banco-de-dados-qt6",
+	"INCLUDE_DIR" : "/home/andson/Documentos/conexao-e-criacao-banco-de-dados-qt6/run/conexao-e-criacao-banco-de-dados-qt6_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/andson/Documentos/conexao-e-criacao-banco-de-dados-qt6/main.qml"
+	],
+	"LOCK_FILE" : "/home/andson/Documentos/conexao-e-criacao-banco-de-dados-qt6/run/CMakeFiles/conexao-e-criacao-banco-de-dados-qt6_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "/home/andson/Qt/6.1.0/gcc_64/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/andson/Documentos/conexao-e-criacao-banco-de-dados-qt6/run/CMakeFiles/conexao-e-criacao-banco-de-dados-qt6_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/andson/Documentos/conexao-e-criacao-banco-de-dados-qt6/qml.qrc",
+	"VERBOSITY" : 0
+}

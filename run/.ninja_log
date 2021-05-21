@@ -1,0 +1,8 @@
+# ninja log v5
+122	151	1621618568729169170	CMakeFiles/conexao-e-criacao-banco-de-dados-qt6.dir/conexao-e-criacao-banco-de-dados-qt6_autogen/EWIEGA46WW/qrc_qml.cpp.o	a4cc1ca42a8a8d1e
+121	139	1621618568717169289	CMakeFiles/conexao-e-criacao-banco-de-dados-qt6.dir/conexao-e-criacao-banco-de-dados-qt6_autogen/mocs_compilation.cpp.o	a1a277a0669bf7cb
+1243	1500	1621618570077155779	conexao-e-criacao-banco-de-dados-qt6	ba6f73b8ba599ed7
+122	1113	1621618569689159626	CMakeFiles/conexao-e-criacao-banco-de-dados-qt6.dir/database.cpp.o	2f4547a84cf72b5
+122	1243	1621618569817158356	CMakeFiles/conexao-e-criacao-banco-de-dados-qt6.dir/main.cpp.o	8b116881ca5c0e24
+118	121	1621618568701169449	conexao-e-criacao-banco-de-dados-qt6_autogen/EWIEGA46WW/qrc_qml.cpp	7039fd02c87ef9b2
+1	118	1621618568697169489	conexao-e-criacao-banco-de-dados-qt6_autogen/timestamp	634f6b8556d1788d
